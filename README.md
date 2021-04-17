@@ -16,7 +16,7 @@ HOW TO RUN
 
 
 4. It will open up a browser page running on a localhost server like this :point_down:
-
+   ![homepage screenshot](/screenshot (355).png)
 
 5. Proceed to upload an image and see the classification results!
 
