@@ -9,10 +9,15 @@ HOW TO RUN
 1. clone the repo
 
 
-2. Download the model from the releases link
+2. Download the model from the releases link and save it in the same directory as the sortit python file
 
 
-3. make sure you have the streamlit python library installed
+3. make sure you have the following libraries installed:
+    * streamlit
+    * tensorflow
+    * Pillow
+    * openCV
+    * Numpy
 
 
 4. In your python cli or virtual environment run "streamlit run sortit.py"
