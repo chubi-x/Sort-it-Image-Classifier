@@ -2,13 +2,13 @@
 Sort-it is an image classification application that classifies images of cats, dogs, bicycles, cars, and motorcycles. 
 I built it using transfer learning from Google's Inception v3 model from the ImageNet Recognition Challenge
 
-#Online Test
+# Live Build
 wanna try it out for yourself? upload an image to http://sort-it.herokuapp.com/ and check it out!
 
 
 
 #################################
-#Dev Environment
+# Local setup
 
 HOW TO RUN
 1. clone the repo
