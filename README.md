@@ -3,7 +3,7 @@ Sort-it is an image classification application that classifies images of cats, d
 I built it using transfer learning from Google's Inception v3 model from the ImageNet Recognition Challenge
 
 # Live Build
-wanna try it out for yourself? upload an image to https://sort-it-image-classifier.up.railway.app/ and check it out!
+wanna try it out for yourself? upload an image to https://sort-it.streamlit.app/ and check it out!
 
 
 
