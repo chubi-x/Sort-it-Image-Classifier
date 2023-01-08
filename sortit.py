@@ -4,7 +4,7 @@ import streamlit as st
 from PIL import Image, ImageOps
 import numpy as np
 # load the model
-model = tf.keras.models.load_model( "sortit_model(v4).hdf5" )
+model = tf.keras.models.load_model( "https://github.com/chubi-x/Sort-it-Image-Classifier/releases/download/1/sortit_model.v4.hdf5" )
 # header
 st.title(
     """
