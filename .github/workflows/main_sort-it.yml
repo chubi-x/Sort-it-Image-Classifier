@@ -66,4 +66,4 @@ jobs:
         with:
           app-name: 'sort-it'
           slot-name: 'Production'
-          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_614F67167FE24F92B086924413EDF0FA }}
+          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_A4875A8D97044E9A80B053458F28A0C1 }}
